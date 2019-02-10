@@ -1,0 +1,60 @@
+Problem 1
+a)5
+b)6
+c)14/3
+Problem 2
+a)5
+b)8
+c)50
+Problem 3
+a)9
+b)-3
+c)+/- 9
+Problem 4
+a)0
+b)6
+c)3/2
+Problem 5
+a)21
+b)19
+c)9/10
+Problem 6
+a)3
+b)9
+c)-3
+Problem 7
+a)3,-4
+b)-3,4
+c)-3,-4
+Problem 8
+a)-5
+b)5
+c)+/- 7
+Problem 9
+a)3
+b)2
+c)6
+Problem 10
+a)-2.5
+b)+/- 3.5
+c)3.125
+Problem 11
+a)-6,4
+b)8,-6
+c)-2,4
+Problem 12
+a)-11
+b)21
+c)10
+Problem 13
+a)√(15/2)
+b)√7/2
+c)3√3
+Problem 14
+a)3 +/- 2√2i
+b)5√2i
+c)√2-3i
+Problem 15
+a)(5 +/- √107i)/6
+b)6,-4
+c)3 +/- 2√23i

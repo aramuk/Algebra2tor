@@ -1,0 +1,15 @@
+sin(x) = 0.5
+sin(30)=x
+sin(90)=x
+cos(90)=x
+sin(495)=x
+tan(45) =x
+sec(pi/3) = x
+cot(-30) = x
+cos2(135) = x
+tan(x) = 1
+In right triangle ABC tan(x) = 3/4. Find sin(x)
+2cosx - 1 = 0
+sinx + 3 = 5sinx
+5(cosx+1) = 5
+3tanx - 1 = tanx +9

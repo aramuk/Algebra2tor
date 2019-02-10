@@ -1,0 +1,15 @@
+log100000=x
+(log27)/(logx)=3
+2logx - log(x) = 1
+ln(10/(7-x)= lnx
+log 5x = log (2x + 9)   
+log (4x - 5) = log (2x - 1)
+log (-2x + 9) = log (7 - 4x)
+-6log 3(x - 3) = -24
+log (16 + 2x) = log (x2- 4x)
+log x - log 2 = 1
+ln (-3x - 1) - ln 7 = 2
+ln (x - 3) - ln (x - 5) = ln 5
+ln (4x + 1) - ln 3 = 5
+ln 2 - ln (3x + 2) = 1
+log -x + 2 = 4
